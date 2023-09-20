@@ -5,6 +5,6 @@
 ```css
 @font-face {
     font-family: "LCD";
-    src: url("https://www.jsdelivr.com/gh/microanswer/common_font/LCD.TTF"); 
+    src: url("https://cdn.jsdelivr.net/gh/microanswer/common_font/LCD.TTF"); 
 }
 ```
